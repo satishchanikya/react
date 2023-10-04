@@ -1,4 +1,4 @@
-const title=React.createElement("h1",{},"This is from the react");
+const title=React.createElement("h1",{},"trying to push the code into the git account");
 
 const root=ReactDOM.createRoot(document.getElementById("root"));
 
